@@ -1,4 +1,4 @@
-# CURSADA UNIVERSITARIA
+# TP CURSADA UNIVERSITARIA
 
 La consigna del TP se encuentra [aqui](https://docs.google.com/document/d/1Z9M0YY8dXWmd_8ANXCFvBen5pUFqTv4G55gbQqXqLuQ/edit#)
 
